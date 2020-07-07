@@ -1,2 +1,2 @@
 # OldShovePython
-Outdated fullstack QtPy/Python app
+Outdated (unfinished) fullstack QtPy/Python app
