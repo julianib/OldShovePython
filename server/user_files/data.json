@@ -1,0 +1,29 @@
+{
+    "write_date": "2020-03-23 16:36:00.132787",
+    "next_packet_id": 370,
+    "next_user_id": 13,
+    "userdata": [
+        {
+            "blocked_users": [],
+            "country": "",
+            "email": null,
+            "friends": [],
+            "games_played": 5,
+            "games_won": 4,
+            "id": 4,
+            "last_logged_in": "2020-03-23 16:30:26.298755",
+            "last_online": "2020-03-23 16:33:23.820254",
+            "last_used_ip": "127.0.0.1",
+            "log_ins": 11,
+            "password": "a",
+            "rank": "User",
+            "rank_prefix": "",
+            "registration_date": "2019-07-29 21:13:18.709104",
+            "total_chips": 588,
+            "used_ips": [
+                "127.0.0.1"
+            ],
+            "username": "a"
+        }
+    ]
+}
